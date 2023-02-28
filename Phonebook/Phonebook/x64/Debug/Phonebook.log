@@ -1,0 +1,5 @@
+﻿  Phonebook.cpp
+F:\Projects\Phonebook\Phonebook\Phonebook.cpp(9,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Phonebook.vcxproj -> F:\Projects\Phonebook\x64\Debug\Phonebook.exe
